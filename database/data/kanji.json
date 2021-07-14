@@ -1,0 +1,2950 @@
+[
+  {
+    "book": "Genki I",
+    "number": 1,
+    "lessons": [
+      { "number": 1, "grammar": [], "kanji": [] },
+      { "number": 2, "grammar": [], "kanji": [] },
+      {
+        "number": 3,
+        "grammar": [],
+        "kanji": [
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "one",
+            "kanji": "一",
+            "reading": "一[いち]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "one o'clock",
+            "kanji": "一時",
+            "reading": "一[いち]時[じ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "two",
+            "kanji": "二",
+            "reading": "二[に]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "two o'clock",
+            "kanji": "二時",
+            "reading": "二[に]時[じ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "three",
+            "kanji": "三",
+            "reading": "三[さん]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "three o'clock",
+            "kanji": "三時",
+            "reading": "三[さん]時[じ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "four",
+            "kanji": "四",
+            "reading": "四[よん]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "four o'clock",
+            "kanji": "四時",
+            "reading": "四[よ]時[じ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "five",
+            "kanji": "五",
+            "reading": "五[ご]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "five o'clock",
+            "kanji": "五時",
+            "reading": "五[ご]時[じ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "six",
+            "kanji": "六",
+            "reading": "六[ろく]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "six o'clock",
+            "kanji": "六時",
+            "reading": "六[ろく]時[じ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "six hundred",
+            "kanji": "六百",
+            "reading": "六[ろっ]百[ぴゃく]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "seven",
+            "kanji": "七",
+            "reading": "七[しち/なな]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "seven o'clock",
+            "kanji": "七時",
+            "reading": "七[しち]時[じ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "eight",
+            "kanji": "八",
+            "reading": "八[はち]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "eight o'clock",
+            "kanji": "八時",
+            "reading": "八[はち]時[じ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "eight hundred",
+            "kanji": "八百",
+            "reading": "八[はっ]百[ぴゃく]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "nine",
+            "kanji": "九",
+            "reading": "九[きゅう]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "nine o'clock",
+            "kanji": "九時",
+            "reading": "九[く]時[じ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "ten",
+            "kanji": "十",
+            "reading": "十[じゅう]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "ten o'clock",
+            "kanji": "十時",
+            "reading": "十[じゅう]時[じ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "hundred",
+            "kanji": "百",
+            "reading": "百[ひゃく]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "three hundred",
+            "kanji": "三百",
+            "reading": "三[さん]百[びゃく]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "thousand",
+            "kanji": "千",
+            "reading": "千[せん]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "three thousand",
+            "kanji": "三千",
+            "reading": "三[さん]千[ぜん]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "eight thousand",
+            "kanji": "八千",
+            "reading": "八[はっ]千[せん]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "one thousand yen",
+            "kanji": "千円",
+            "reading": "千[せん]円[えん]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "ten thousand",
+            "kanji": "一万",
+            "reading": "一[いち]万[まん]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "one hundred thousand",
+            "kanji": "十万",
+            "reading": "十[じゅう]万[まん]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "one million",
+            "kanji": "百万",
+            "reading": "百[ひゃく]万[まん]"
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "grammar": [],
+        "kanji": [
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "Japan",
+            "kanji": "日本",
+            "reading": "日[に]本[ほん]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "Sunday",
+            "kanji": "日曜日",
+            "reading": "日[にち]曜[よう]日[び]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "book",
+            "kanji": "本",
+            "reading": "本[ほん]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "Japanese people",
+            "kanji": "日本人",
+            "reading": "日[に]本[ほん]人[じん]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "alone",
+            "kanji": "一人で",
+            "reading": "一人[ひとり]で"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "this person",
+            "kanji": "この人",
+            "reading": "この人[ひと]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "Monday",
+            "kanji": "月曜日",
+            "reading": "月[げつ]曜[よう]日[び]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "January",
+            "kanji": "一月",
+            "reading": "一[いち]月[がつ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "Tuesday",
+            "kanji": "火曜日",
+            "reading": "火[か]曜[よう]日[び]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "Wednesday",
+            "kanji": "水曜日",
+            "reading": "水[すい]曜[よう]日[び]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "Thursday",
+            "kanji": "木曜日",
+            "reading": "木[もく]曜[よう]日[び]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "Friday",
+            "kanji": "金曜日",
+            "reading": "金[きん]曜[よう]日[び]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "Saturday",
+            "kanji": "土曜日",
+            "reading": "土[ど]曜[よう]日[び]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "top; above",
+            "kanji": "上",
+            "reading": "上[うえ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "under",
+            "kanji": "下",
+            "reading": "下[した]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "inside",
+            "kanji": "中",
+            "reading": "中[なか]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "half past three",
+            "kanji": "三時半",
+            "reading": "三[さん]時[じ]半[はん]"
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "grammar": [],
+        "kanji": [
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "mountain",
+            "kanji": "山",
+            "reading": "山[やま]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "Mr/Ms Yamakawa",
+            "kanji": "山川さん",
+            "reading": "山[やま]川[かわ]さん"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "river",
+            "kanji": "川",
+            "reading": "川[かわ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "fine",
+            "kanji": "元気な",
+            "reading": "元[げん]気[き]な"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "weather",
+            "kanji": "天気",
+            "reading": "天[てん]気[き]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "I",
+            "kanji": "私",
+            "reading": "私[わたし]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "now",
+            "kanji": "今",
+            "reading": "今[いま]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "today",
+            "kanji": "今日",
+            "reading": "今日[きょう]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "Mr/Ms Tanaka",
+            "kanji": "田中さん",
+            "reading": "田[た]中[なか]さん"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "Mr/Ms Yamada",
+            "kanji": "山田さん",
+            "reading": "山[やま]田[だ]さん"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "woman",
+            "kanji": "女の人",
+            "reading": "女[おんな]の人[ひと]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "man",
+            "kanji": "男の人",
+            "reading": "男[おとこ]の人[ひと]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to see",
+            "kanji": "見る",
+            "reading": "見[み]る"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to go",
+            "kanji": "行く",
+            "reading": "行[い]く"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to eat",
+            "kanji": "食べる",
+            "reading": "食[た]べる"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to drink",
+            "kanji": "飲む",
+            "reading": "飲[の]む"
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "grammar": [],
+        "kanji": [
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "east",
+            "kanji": "東",
+            "reading": "東[ひがし]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "east exit",
+            "kanji": "東口",
+            "reading": "東[ひがし]口[ぐち]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "west",
+            "kanji": "西",
+            "reading": "西[にし]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "west exit",
+            "kanji": "西口",
+            "reading": "西[にし]口[ぐち]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "south",
+            "kanji": "南",
+            "reading": "南[みなみ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "south exit",
+            "kanji": "南口",
+            "reading": "南[みなみ]口[ぐち]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "north",
+            "kanji": "北",
+            "reading": "北[きた]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "north exit",
+            "kanji": "北口",
+            "reading": "北[きた]口[ぐち]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to exit",
+            "kanji": "出る",
+            "reading": "出[で]る"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "exit",
+            "kanji": "出口",
+            "reading": "出[で]口[ぐち]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "right",
+            "kanji": "右",
+            "reading": "右[みぎ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "left",
+            "kanji": "左",
+            "reading": "左[ひだり]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "five minutes",
+            "kanji": "五分",
+            "reading": "五[ご]分[ふん]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "ten minutes",
+            "kanji": "十分",
+            "reading": "十[じゅっ]分[ぷん] / 十[じっ]分[ぷん]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "teacher",
+            "kanji": "先生",
+            "reading": "先[せん]生[せい]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "student",
+            "kanji": "学生",
+            "reading": "学[がく]生[せい]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "college student",
+            "kanji": "大学生",
+            "reading": "大[だい]学[がく]生[せい]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "student",
+            "kanji": "学生",
+            "reading": "学[がく]生[せい]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "foreign country",
+            "kanji": "外国",
+            "reading": "外[がい]国[こく]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "foreigner",
+            "kanji": "外国人",
+            "reading": "外[がい]国[こく]人[じん]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "China",
+            "kanji": "中国",
+            "reading": "中[ちゅう]国[ごく]"
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "grammar": [],
+        "kanji": [
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "Tokyo",
+            "kanji": "東京",
+            "reading": "東[とう]京[きょう]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "Kyoko",
+            "kanji": "京子",
+            "reading": "京[きょ]子[こ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "child",
+            "kanji": "子ども",
+            "reading": "子[こ]ども"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "small",
+            "kanji": "小さい",
+            "reading": "小[ちい]さい"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to meet",
+            "kanji": "会う",
+            "reading": "会[あ]う"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "company",
+            "kanji": "会社",
+            "reading": "会[かい]社[しゃ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "(my) father",
+            "kanji": "父",
+            "reading": "父[ちち]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "father (not necessarily your own)",
+            "kanji": "お父さん",
+            "reading": "お父[とう]さん"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "(my) mother",
+            "kanji": "母",
+            "reading": "母[はは]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "mother (not necessarily your own)",
+            "kanji": "お母さん",
+            "reading": "お母[かあ]さん"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "expensive; high",
+            "kanji": "高い",
+            "reading": "高[たか]い"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "high school",
+            "kanji": "高校",
+            "reading": "高[こう]校[こう]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "high school student",
+            "kanji": "高校生",
+            "reading": "高[こう]校[こう]生[せい]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "school",
+            "kanji": "学校",
+            "reading": "学[がっ]校[こう]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "every day",
+            "kanji": "毎日",
+            "reading": "毎[まい]日[にち]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "Japanese (language)",
+            "kanji": "日本語",
+            "reading": "日[に]本[ほん]語[ご]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "literature",
+            "kanji": "文学",
+            "reading": "文[ぶん]学[がく]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to return",
+            "kanji": "帰る",
+            "reading": "帰[かえ]る"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to enter",
+            "kanji": "入る",
+            "reading": "入[はい]る"
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "grammar": [],
+        "kanji": [
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "office worker",
+            "kanji": "会社員",
+            "reading": "会[かい]社[しゃ]員[いん]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "new",
+            "kanji": "新しい",
+            "reading": "新[あたら]しい"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "newspaper",
+            "kanji": "新聞",
+            "reading": "新[しん]聞[ぶん]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to listen",
+            "kanji": "聞く",
+            "reading": "聞[き]く"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to make",
+            "kanji": "作る",
+            "reading": "作[つ]る"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "job",
+            "kanji": "仕事",
+            "reading": "仕[し]事[ごと]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "train",
+            "kanji": "電車",
+            "reading": "電[でん]車[しゃ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "electricity",
+            "kanji": "電気",
+            "reading": "電[でん]気[き]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "car",
+            "kanji": "車",
+            "reading": "車[くるま]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to be absent; to rest",
+            "kanji": "休む",
+            "reading": "休[やす]む"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "holiday; absence",
+            "kanji": "休み",
+            "reading": "休[やす]み"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to say",
+            "kanji": "言う",
+            "reading": "言[い]う"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to read",
+            "kanji": "読む",
+            "reading": "読[よ]む"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to think",
+            "kanji": "思う",
+            "reading": "思[おも]う"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "next",
+            "kanji": "次",
+            "reading": "次[つぎ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "what",
+            "kanji": "何",
+            "reading": "何[なに]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "what time",
+            "kanji": "何時",
+            "reading": "何[なん]時[じ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "how many people",
+            "kanji": "何人",
+            "reading": "何[なん]人[にん]"
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "grammar": [],
+        "kanji": [
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "A.M.",
+            "kanji": "午前",
+            "reading": "午[ご]前[ぜん]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "P.M.; in the afternoon",
+            "kanji": "午後",
+            "reading": "午[ご]後[ご]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "in the morning",
+            "kanji": "午前中",
+            "reading": "午[ご]前[ぜん]中[ちゅう]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "after...",
+            "kanji": "〜の後",
+            "reading": "〜の後[あと]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "later",
+            "kanji": "後で",
+            "reading": "後[あと]で"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "back; behind",
+            "kanji": "後ろ",
+            "reading": "後[うし]ろ"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "before; front",
+            "kanji": "前",
+            "reading": "前[まえ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "name",
+            "kanji": "名前",
+            "reading": "名[な]前[まえ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "white",
+            "kanji": "白い",
+            "reading": "白しろ]い"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "rain",
+            "kanji": "雨",
+            "reading": "雨[あめ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to write",
+            "kanji": "書く",
+            "reading": "書[か]く"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "friend",
+            "kanji": "友だち",
+            "reading": "友[とも]だち"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "time",
+            "kanji": "時間",
+            "reading": "時[じ]間[かん]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "two hours",
+            "kanji": "二時間",
+            "reading": "二[に]時[じ]間[かん]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "between",
+            "kanji": "間",
+            "reading": "間[あいだ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "house",
+            "kanji": "家",
+            "reading": "家[いえ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to speak",
+            "kanji": "話す",
+            "reading": "話[はな]す"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "talk; story",
+            "kanji": "話",
+            "reading": "話[はなし]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "telephone",
+            "kanji": "電話",
+            "reading": "電[でん]話[わ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "little",
+            "kanji": "少し",
+            "reading": "少[すこ]し"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "old (for things)",
+            "kanji": "古い",
+            "reading": "古[ふる]い"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to know",
+            "kanji": "知る",
+            "reading": "知[し]る"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to come (short-form)",
+            "kanji": "来る",
+            "reading": "来[く]る"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to come (polite-form)",
+            "kanji": "来ます",
+            "reading": "来[き]ます"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to not come (short-form)",
+            "kanji": "来ない",
+            "reading": "来[こ]ない"
+          }
+        ]
+      },
+      {
+        "number": 10,
+        "grammar": [],
+        "kanji": [
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to live",
+            "kanji": "住む",
+            "reading": "住[す]む"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "New Year",
+            "kanji": "お正月",
+            "reading": "お正[しょう]月[がつ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "third-year student",
+            "kanji": "三年生",
+            "reading": "三[さん]年[ねん]生[せい]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "next year",
+            "kanji": "来年",
+            "reading": "来[らい]年[ねん]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "this year",
+            "kanji": "今年",
+            "reading": "今[こ]年[とし]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "year",
+            "kanji": "年",
+            "reading": "年[とし]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to sell",
+            "kanji": "売る",
+            "reading": "売[う]る"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to buy",
+            "kanji": "買う",
+            "reading": "買[か]う"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "town",
+            "kanji": "町",
+            "reading": "町[まち]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "long",
+            "kanji": "長い",
+            "reading": "長[なが]い"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "way; road",
+            "kanji": "道",
+            "reading": "道[みち]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "snow",
+            "kanji": "雪",
+            "reading": "雪[ゆき]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to stand",
+            "kanji": "立つ",
+            "reading": "立[た]つ"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "oneself",
+            "kanji": "自分",
+            "reading": "自[じ]分[ぶん]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "night",
+            "kanji": "夜",
+            "reading": "夜[よる]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "morning",
+            "kanji": "朝",
+            "reading": "朝[あさ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "this morning",
+            "kanji": "今朝",
+            "reading": "今[け]朝[さ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to hold",
+            "kanji": "持つ",
+            "reading": "持[も]つ"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to bring (a thing)",
+            "kanji": "持ってくる",
+            "reading": "持[も]ってくる"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "grammar": [],
+        "kanji": [
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "letter",
+            "kanji": "手紙",
+            "reading": "手[て]紙[がみ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "singer",
+            "kanji": "歌手",
+            "reading": "歌[か]手[しゅ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to like",
+            "kanji": "好きな",
+            "reading": "好[す]きな"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to love",
+            "kanji": "大好きな",
+            "reading": "大[だい]好[す]きな"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "near; nearby",
+            "kanji": "近く",
+            "reading": "近[ち]く"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "neighborhood",
+            "kanji": "近所",
+            "reading": "近[きん]所[じょ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "cheerful; bright",
+            "kanji": "明るい",
+            "reading": "明[あか]るい"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "tomorrow",
+            "kanji": "明日",
+            "reading": "明日[あした]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "hospital",
+            "kanji": "病院",
+            "reading": "病[びょう]院[いん]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "illness",
+            "kanji": "病気",
+            "reading": "病[びょう]気[き]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "movie",
+            "kanji": "映画",
+            "reading": "映[えい]画[が]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to sing",
+            "kanji": "歌う",
+            "reading": "歌[うた]う"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "song",
+            "kanji": "歌",
+            "reading": "歌[うた]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "Kawaguchi City",
+            "kanji": "川口市",
+            "reading": "川[かわ]口[ぐち]市[し]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "various places",
+            "kanji": "いろいろな所",
+            "reading": "いろいろな所[ところ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to study",
+            "kanji": "勉強する",
+            "reading": "勉[べん]強[きょう]する"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "strong",
+            "kanji": "強い",
+            "reading": "強[つよ]い"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "famous",
+            "kanji": "有名な",
+            "reading": "有[ゆう]名[めい]な"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "travel",
+            "kanji": "旅行",
+            "reading": "旅[りょ]行[こう]"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "grammar": [],
+        "kanji": [
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "old times",
+            "kanji": "昔",
+            "reading": "昔[むかし]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "once upon a time",
+            "kanji": "昔々",
+            "reading": "昔[むかし]々[むかし]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "people",
+            "kanji": "人々",
+            "reading": "人[ひと]々[びと]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "God",
+            "kanji": "神さま",
+            "reading": "神[かみ]さま"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "shrine",
+            "kanji": "神社",
+            "reading": "神[じん]社[じゃ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "early",
+            "kanji": "早い",
+            "reading": "早[はや]い"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to get up",
+            "kanji": "起きる",
+            "reading": "起[お]きる"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "cow",
+            "kanji": "牛",
+            "reading": "牛[うし]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to use",
+            "kanji": "使う",
+            "reading": "使[つか]う"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to work",
+            "kanji": "働く",
+            "reading": "働[はたら]く"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to bring (a person) back",
+            "kanji": "連れて帰る",
+            "reading": "連[つ]れて帰[かえ]る"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to separate",
+            "kanji": "別れる",
+            "reading": "別[わか]れる"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "not in particular",
+            "kanji": "別に",
+            "reading": "別[べつ]に"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "once",
+            "kanji": "一度",
+            "reading": "一[いち]度[ど]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "near future",
+            "kanji": "今度",
+            "reading": "今[こん]度[ど]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "red",
+            "kanji": "赤い",
+            "reading": "赤[あか]い"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "color",
+            "kanji": "色",
+            "reading": "色[いろ]"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book": "Genki II",
+    "number": 2,
+    "lessons": [
+      {
+        "number": 13,
+        "grammar": [],
+        "kanji": [
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "food",
+            "kanji": "食べ物",
+            "reading": "食[て]べ物[もの]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "(a) drink",
+            "kanji": "飲み物",
+            "reading": "飲[の]み物[もの]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "thing(s)",
+            "kanji": "物",
+            "reading": "物[もの]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "shopping",
+            "kanji": "買い物",
+            "reading": "買[か]い物[もの]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "bird",
+            "kanji": "鳥",
+            "reading": "鳥[とり]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "cooking",
+            "kanji": "料理",
+            "reading": "料[りょう]理[り]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "especially",
+            "kanji": "特に",
+            "reading": "特[とく]に"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "cheap",
+            "kanji": "安い",
+            "reading": "安[やす]い"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "rice; meal",
+            "kanji": "ご飯",
+            "reading": "ご飯[はん]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "breakfast",
+            "kanji": "朝ご飯",
+            "reading": "朝[あさ]ご飯[はん]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "meat",
+            "kanji": "肉",
+            "reading": "肉[にく]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "bad",
+            "kanji": "悪い",
+            "reading": "悪[わる]い"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to feel sick",
+            "kanji": "気分が悪い",
+            "reading": "気[き]分[ぶん]が悪[わる]い"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "body",
+            "kanji": "体",
+            "reading": "体[からだ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "airport",
+            "kanji": "空港",
+            "reading": "空[くう]港[こう]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to arrive",
+            "kanji": "着く",
+            "reading": "着[つ]く"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to wear",
+            "kanji": "着る",
+            "reading": "着[き]る"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "kimono",
+            "kanji": "着物",
+            "reading": "着[き]物[もの]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "the same",
+            "kanji": "同じ",
+            "reading": "同[おな]じ"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "sea",
+            "kanji": "海",
+            "reading": "海[うみ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "noon; daytime",
+            "kanji": "昼",
+            "reading": "昼[ひる]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "lunch",
+            "kanji": "昼ご飯",
+            "reading": "昼[ひる]ご飯[はん]"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "grammar": [],
+        "kanji": [
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "he; boyfriend",
+            "kanji": "彼",
+            "reading": "彼[かれ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "she; girlfriend",
+            "kanji": "彼女",
+            "reading": "彼[かの]女[じょ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "age; era",
+            "kanji": "時代",
+            "reading": "時[じ]代[だい]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "foreign students",
+            "kanji": "両学生",
+            "reading": "両[りゅう]学[がく]生[せい]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to study abroad",
+            "kanji": "留学する",
+            "reading": "留[りゅう]学[がく]する"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "family",
+            "kanji": "家族",
+            "reading": "家[か]族[ぞく]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "father",
+            "kanji": "父親",
+            "reading": "父[ちち]親[おや]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "kind",
+            "kanji": "親切な",
+            "reading": "親[しん]切[せつ]な"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to cut",
+            "kanji": "切る",
+            "reading": "切[き]る"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "English",
+            "kanji": "英語",
+            "reading": "英[えい]語[ご]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "shop",
+            "kanji": "店",
+            "reading": "店[みせ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "last year",
+            "kanji": "去年",
+            "reading": "去[きょ]年[ねん]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "suddenly",
+            "kanji": "急に",
+            "reading": "急[きゅう]に"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to hurry",
+            "kanji": "急ぐ",
+            "reading": "急[いそ]ぐ"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to ride",
+            "kanji": "乗る",
+            "reading": "乗[の]る"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "really",
+            "kanji": "本当に",
+            "reading": "本[ほん]当[とう]に"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "music",
+            "kanji": "音楽",
+            "reading": "音[おん]楽[がく]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "doctor",
+            "kanji": "医者",
+            "reading": "医[い]者[しゃ]"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "grammar": [],
+        "kanji": [
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to die",
+            "kanji": "死ぬ",
+            "reading": "死[し]ぬ"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "meaning",
+            "kanji": "意味",
+            "reading": "意[い]味[み]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to watch out",
+            "kanji": "注意する",
+            "reading": "注[ちゅう]意[い]する"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "summer",
+            "kanji": "夏",
+            "reading": "夏[なつ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "fish",
+            "kanji": "魚",
+            "reading": "魚[さかな]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "temple",
+            "kanji": "お寺",
+            "reading": "お寺[てら]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "wide; spacious",
+            "kanji": "広い",
+            "reading": "広[ひろ]い"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "bicycle",
+            "kanji": "自転車",
+            "reading": "自[じ]転[てん]車[しゃ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to borrow",
+            "kanji": "借りる",
+            "reading": "借[か]りる"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to run",
+            "kanji": "走る",
+            "reading": "走[はし]る"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "building",
+            "kanji": "建物",
+            "reading": "建[たて]物[もの]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "underground",
+            "kanji": "地下",
+            "reading": "地[ち]下[か]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "square; open space",
+            "kanji": "広場",
+            "reading": "広[ひろ]場[ば]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "foot; leg",
+            "kanji": "足",
+            "reading": "足[あし]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to pass through",
+            "kanji": "通る",
+            "reading": "通[とお]る"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "summer break",
+            "kanji": "夏休み",
+            "reading": "夏[なつ]休[やす]み"
+          }
+        ]
+      },
+      {
+        "number": 16,
+        "grammar": [],
+        "kanji": [
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "child",
+            "kanji": "子供",
+            "reading": "子[こ]供[ども]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "the world",
+            "kanji": "世界",
+            "reading": "世[せ]界[かい]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "all",
+            "kanji": "全部",
+            "reading": "全[ぜん]部[ぶ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "room",
+            "kanji": "部屋",
+            "reading": "部[へ]屋[や]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "(something) begins",
+            "kanji": "始まる",
+            "reading": "始[はじ]まる"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to begin",
+            "kanji": "始める",
+            "reading": "始[はじ]める"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "every week",
+            "kanji": "毎週",
+            "reading": "毎[まい]週[しゅう]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "last week",
+            "kanji": "先週",
+            "reading": "先[せん]週[しゅう]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "one week",
+            "kanji": "一週間",
+            "reading": "一[いっ]週[しゅう]間[かん]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "other than...",
+            "kanji": "〜以外",
+            "reading": "〜以[い]外[がい]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to think",
+            "kanji": "考える",
+            "reading": "考[かんが]える"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to open (something)",
+            "kanji": "開ける",
+            "reading": "開[あ]ける"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "bookstore",
+            "kanji": "本屋",
+            "reading": "本[ほん]屋[や]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "person on one's side",
+            "kanji": "味方",
+            "reading": "味[み]方[かた]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "exercise",
+            "kanji": "運動",
+            "reading": "運[うん]動[どう]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "driving",
+            "kanji": "運転",
+            "reading": "運[うん]転[てん]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to teach",
+            "kanji": "教える",
+            "reading": "教[おし]える"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "classroom",
+            "kanji": "教室",
+            "reading": "教[きょう]室[しつ]"
+          }
+        ]
+      },
+      {
+        "number": 17,
+        "grammar": [],
+        "kanji": [
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "twenty-five years old",
+            "kanji": "二十五歳",
+            "reading": "二[に]十[じゅう]五[ご]歳[さい]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to learn",
+            "kanji": "習う",
+            "reading": "習[なら]う"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "mainly",
+            "kanji": "主に",
+            "reading": "主[おも]に"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "husband",
+            "kanji": "ご主人",
+            "reading": "ご主[しゅ]人[じん]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to get married",
+            "kanji": "結婚する",
+            "reading": "結[けっ]婚[こん]する"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to collect",
+            "kanji": "集める",
+            "reading": "集[あつ]める"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to make public; to give a presentation",
+            "kanji": "発表する",
+            "reading": "発[はっ]表[ぴょう]する"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "piece of work",
+            "kanji": "作品",
+            "reading": "作[さく]品[ひん]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "character",
+            "kanji": "字",
+            "reading": "字[じ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "activity",
+            "kanji": "活動",
+            "reading": "活[かつ]動[どう]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "life; living",
+            "kanji": "生活",
+            "reading": "生[せい]活[かつ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "photograph",
+            "kanji": "写真",
+            "reading": "写[しゃ]真[しん]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to copy",
+            "kanji": "写す",
+            "reading": "写[うつ]す"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to walk",
+            "kanji": "歩く",
+            "reading": "歩[ある]く"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "realm; field",
+            "kanji": "分野",
+            "reading": "分[ぶん]野[や]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "Mr/Ms Ono",
+            "kanji": "小野さん",
+            "reading": "小野[おの]さん"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "Nagano",
+            "kanji": "長野",
+            "reading": "長[なが]野[の]"
+          }
+        ]
+      },
+      {
+        "number": 18,
+        "grammar": [],
+        "kanji": [
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "purpose",
+            "kanji": "目的",
+            "reading": "目[もく]的[てき]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "eyes",
+            "kanji": "目",
+            "reading": "目[め]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "physical labor, such as construction",
+            "kanji": "力仕事",
+            "reading": "力[ちから]仕[し]事[ごと]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "clothes",
+            "kanji": "服",
+            "reading": "服[ふく]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "dining room",
+            "kanji": "食堂",
+            "reading": "食[しょく]堂[どう]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "class",
+            "kanji": "授業",
+            "reading": "授[じゅ]業[ぎょう]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "exam",
+            "kanji": "試験",
+            "reading": "試[し]験[けん]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to lend",
+            "kanji": "貸す",
+            "reading": "貸[か]す"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "library",
+            "kanji": "図書館",
+            "reading": "図[と]書[しょ]館[かん]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "map",
+            "kanji": "地図",
+            "reading": "地[ち]図[ず]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "movie theater",
+            "kanji": "映画館",
+            "reading": "映[えい]画[が]館[かん]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "Japanese inn",
+            "kanji": "旅館",
+            "reading": "旅[りょ]館[かん]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to come to an end",
+            "kanji": "終わる",
+            "reading": "終[お]わる"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "homework",
+            "kanji": "宿題",
+            "reading": "宿[しゅく]題[だい]"
+          },
+          { "type": "kanji", "is_primary": true, "meaning": "", "kanji": "", "reading": "[]" }
+        ]
+      },
+      {
+        "number": 19,
+        "grammar": [],
+        "kanji": [
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "spring",
+            "kanji": "春",
+            "reading": "春[はる]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "autumn",
+            "kanji": "秋",
+            "reading": "秋[あき]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "winter",
+            "kanji": "冬",
+            "reading": "冬[ふゆ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "winter vacation",
+            "kanji": "冬休み",
+            "reading": "冬[ふゆ]休[やす]み"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "flower",
+            "kanji": "花",
+            "reading": "花[はな]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "Mr/Ms...(more formal)",
+            "kanji": "〜様",
+            "reading": "〜様[さま]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "uneasy; worried",
+            "kanji": "不安な",
+            "reading": "不[ふ]安[あん]な"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "(my) older sister",
+            "kanji": "姉",
+            "reading": "姉[あね]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "older sister",
+            "kanji": "お姉さん",
+            "reading": "お姉[ねえ]さん"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "(my) older brother",
+            "kanji": "兄",
+            "reading": "兄[あに]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "older brother",
+            "kanji": "お兄さん",
+            "reading": "お兄[にい]さん"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "Chinese character",
+            "kanji": "漢字",
+            "reading": "漢[かん]字[じ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to graduate",
+            "kanji": "卒業する",
+            "reading": "卒[そつ]業[ぎょう]する"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "engineering (subject)",
+            "kanji": "光学",
+            "reading": "光[こう]学[がく]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "research",
+            "kanji": "研究",
+            "reading": "研[けん]究[きゅう]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "question",
+            "kanji": "質問",
+            "reading": "質[しつ]問[もん]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "many",
+            "kanji": "多い",
+            "reading": "多[おお]い"
+          }
+        ]
+      },
+      {
+        "number": 20,
+        "grammar": [],
+        "kanji": [
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "plate; dish",
+            "kanji": "皿",
+            "reading": "皿[さら]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "voice",
+            "kanji": "声",
+            "reading": "声[こえ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "Japanese tea",
+            "kanji": "お茶",
+            "reading": "お茶[ちゃ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "teahouse",
+            "kanji": "茶店",
+            "reading": "茶[ちゃ]店[みせ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "(something) stops",
+            "kanji": "止まる",
+            "reading": "止[と]まる"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "one sheet",
+            "kanji": "一枚",
+            "reading": "一[いち]枚[まい]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "three \b\"ryoo\"",
+            "kanji": "三両",
+            "reading": "三[さん]両[りょう]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "parents",
+            "kanji": "良心",
+            "reading": "良[りょう]心[しん]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "impossible",
+            "kanji": "無理な",
+            "reading": "無[む]理[り]な"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to pay",
+            "kanji": "払う",
+            "reading": "払[はら]う"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "heart; mind",
+            "kanji": "心",
+            "reading": "心[こころ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to laugh",
+            "kanji": "笑う",
+            "reading": "笑[わら]う"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "definitely",
+            "kanji": "絶対に",
+            "reading": "絶[ぜっ]対[たい]に"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "painful",
+            "kanji": "痛い",
+            "reading": "痛[いた]い"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "the worst",
+            "kanji": "最悪",
+            "reading": "最[さい]悪[あく]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "recently",
+            "kanji": "最近",
+            "reading": "最[さい]近[きん]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to continue",
+            "kanji": "続ける",
+            "reading": "続[つづ]ける"
+          }
+        ]
+      },
+      {
+        "number": 21,
+        "grammar": [],
+        "kanji": [
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to believe",
+            "kanji": "信じる",
+            "reading": "信[しん]じる"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "experience",
+            "kanji": "経験",
+            "reading": "経[けい]験[けん]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "typhoon",
+            "kanji": "台風",
+            "reading": "台[たい]風[ふう]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "two vehicles/machines/etc.",
+            "kanji": "二台",
+            "reading": "二[に]台[だい]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "dog",
+            "kanji": "犬",
+            "reading": "犬[いぬ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "heavy; serious (illness)",
+            "kanji": "思い",
+            "reading": "思[おも]い"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "at first",
+            "kanji": "初めは",
+            "reading": "初[はじ]めは"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "first time",
+            "kanji": "初めて",
+            "reading": "初[はじ]めて"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "young",
+            "kanji": "若い",
+            "reading": "若[わか]い"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to send",
+            "kanji": "送る",
+            "reading": "送[おく]る"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "happy",
+            "kanji": "幸せな",
+            "reading": "幸[しあわ]せな"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "a watch",
+            "kanji": "時計",
+            "reading": "時[と]計[けい]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to be late",
+            "kanji": "遅れる",
+            "reading": "遅[おく]れる"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to miss (transportation)",
+            "kanji": "乗り遅れる",
+            "reading": "乗[の]り遅[おく]れる"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "late",
+            "kanji": "遅い",
+            "reading": "遅[おそ]い"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "worried about",
+            "kanji": "心配な",
+            "reading": "心[しん]配[ぱい]な"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "younger brother",
+            "kanji": "弟",
+            "reading": "弟[おとうと]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "brothers",
+            "kanji": "兄弟",
+            "reading": "兄[きょう]弟[だい]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "younger sister",
+            "kanji": "妹",
+            "reading": "妹[いもうと]"
+          }
+        ]
+      },
+      {
+        "number": 22,
+        "grammar": [],
+        "kanji": [
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "diary",
+            "kanji": "日記",
+            "reading": "日記[にっき]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "bank",
+            "kanji": "銀行",
+            "reading": "銀[ぎん]行[こう]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "one time",
+            "kanji": "一回",
+            "reading": "一[いっ]回[かい]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "evening",
+            "kanji": "夕方",
+            "reading": "夕[ゆう]方[がた]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "Mr/Ms Kuroki",
+            "kanji": "黒木さん",
+            "reading": "黒[くろ]木[き]さん"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "black",
+            "kanji": "黒い",
+            "reading": "黒[くろ]い"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "a thing to take care of",
+            "kanji": "用事",
+            "reading": "用[よう]事[じ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "absence; not at home",
+            "kanji": "留守",
+            "reading": "留[る]守[す]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "answering machine",
+            "kanji": "留守番電話",
+            "reading": "留[る]守[す]番[ばん]電[でん]話[わ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "charm",
+            "kanji": "お守り",
+            "reading": "お守[まも]り"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "weekend",
+            "kanji": "週末",
+            "reading": "週[しゅう]末[まつ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to wait",
+            "kanji": "待つ",
+            "reading": "待[ま]つ"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "over-time work",
+            "kanji": "残業",
+            "reading": "残[ざん]業[ぎょう]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to leave",
+            "kanji": "残す",
+            "reading": "残[のこ]す"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "the first",
+            "kanji": "一番",
+            "reading": "一[いち]番[ばん]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "station",
+            "kanji": "駅",
+            "reading": "駅[えき]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "Tokyo Station",
+            "kanji": "東京駅",
+            "reading": "東[とう]京[きょう]駅[えき]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "駅員",
+            "kanji": "駅員",
+            "reading": "駅[えき]員[いん]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to explain",
+            "kanji": "説明する",
+            "reading": "説[せつ]明[めい]する"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "novel",
+            "kanji": "小説",
+            "reading": "小[しょう]説[せつ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to guide",
+            "kanji": "案内する",
+            "reading": "案[あん]内[ない]する"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to forget",
+            "kanji": "忘れる",
+            "reading": "忘[わす]れる"
+          }
+        ]
+      },
+      {
+        "number": 23,
+        "grammar": [],
+        "kanji": [
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "face",
+            "kanji": "顔",
+            "reading": "顔[かお]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "expression",
+            "kanji": "表情",
+            "reading": "表[ひょう]情[じょう]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to get angry",
+            "kanji": "怒る",
+            "reading": "怒[おこ]る"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "strange",
+            "kanji": "変な",
+            "reading": "変[へん]な"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "tough; hectic",
+            "kanji": "大変な",
+            "reading": "大[たい]変[へん]な"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "partner",
+            "kanji": "相手",
+            "reading": "相[あい]手[て]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "side",
+            "kanji": "横",
+            "reading": "横[よこ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to compare",
+            "kanji": "比べる",
+            "reading": "比[くら]べる"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "culture",
+            "kanji": "文化",
+            "reading": "文[ぶん]化[か]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "different",
+            "kanji": "違う",
+            "reading": "違[ちが]う"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to make a mistake",
+            "kanji": "間違える",
+            "reading": "間[ま]違[ちが]える"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "sad",
+            "kanji": "悲しい",
+            "reading": "悲[かな]しい"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "survey; research",
+            "kanji": "調査",
+            "reading": "調[ちょう]査[さ]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to look into",
+            "kanji": "調べる",
+            "reading": "調[しら]べる"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "result",
+            "kanji": "結果",
+            "reading": "結[けっ]果[か]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "emotion",
+            "kanji": "感情",
+            "reading": "感[かん]情[じょう]"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to be moved",
+            "kanji": "感動する",
+            "reading": "感[かん]動[どう]する"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "to answer",
+            "kanji": "答える",
+            "reading": "答[こた]える"
+          },
+          {
+            "type": "kanji",
+            "is_primary": true,
+            "meaning": "answer",
+            "kanji": "答え",
+            "reading": "答[こた]え"
+          }
+        ]
+      }
+    ]
+  }
+]

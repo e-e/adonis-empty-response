@@ -1,0 +1,46 @@
+version: "3"
+
+services:
+  server:
+    build:
+      context: .
+      target: "${ENV}"
+    ports:
+      - "${HOST_PORT}:${CONTAINER_PORT}"
+      - "56745:56745"
+    volumes:
+      - .:/opt/project
+#      - node_modules:/opt/project/node_modules
+    depends_on:
+      - postgres
+      - redis
+      - ve_server
+    command: /opt/project/server-entrypoint.sh
+
+  postgres:
+    image: postgres:13.0
+    environment:
+      - "POSTGRES_USERNAME=${DB_USER}"
+      - "POSTGRES_PASSWORD=${DB_PASSWORD}"
+    volumes:
+      - ./${ENV}-init.sql:/docker-entrypoint-initdb.d/init.sql
+      - db_data:/var/lib/postgresql/data
+    ports:
+      - "${DB_PORT}:${DB_PORT}"
+
+  redis:
+    image: redis:6.0.9
+    ports:
+      - "${REDIS_PORT}:${REDIS_PORT}"
+    environment:
+      - "ALLOW_EMPTY_PASSWORD=yes"
+
+  ve_server:
+    image: xuomo/ve-server:latest
+    ports:
+      - "4567:4567"
+    restart: unless-stopped
+
+volumes:
+  db_data:
+#  node_modules:
